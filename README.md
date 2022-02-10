@@ -2,10 +2,7 @@
 
 My name is Brandon Mohammed and I live somewhere in Trinadad and Tobago
 
-Here are some ideas to get you started:
-
-
 - 💬 Ask me about anything
 - 📫 How to reach me: J.S#2143 on Discord or email me:brandon66rb1@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am not intresting
