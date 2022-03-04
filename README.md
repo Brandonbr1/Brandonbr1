@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Brandon Mohammed and I live somewhere in Trinadad and Tobago
 
@@ -10,7 +10,11 @@ My name is Brandon Mohammed and I live somewhere in Trinadad and Tobago
 - 😁Things I like to do: Helping people in open source projects
 
 
+## My Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
