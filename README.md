@@ -10,6 +10,7 @@ My name is Brandon Mohammed and I live somewhere in Trinadad and Tobago
 - 😁Things I like to do: Helping people in open source projects
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
-Brandonbr1
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandonbr1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
