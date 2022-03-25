@@ -2,10 +2,8 @@
 
 My name is Brandon Mohammed and I live somewhere in Trinadad and Tobago
 
-- 💬 Ask me about anything
-- 📫 How to reach me: [click here to contact me](https://brandonbr1.github.io/contact.html)
+- 📫 How to reach me: [click here to contact me](https://brandonbr1.github.io/)
 - 👦 Pronouns: He/Him
-- ⚡ Fun fact: I am not intresting and master of bad-puns
 - 👨‍💻Skills: HTML, CSS, Git,Github,Bootstrap
 - 😁Things I like to do: Helping people in open source projects
 
