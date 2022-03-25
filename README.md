@@ -29,8 +29,8 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 
 |  Programing Lanuage    | Skill level      |
 | :---------------------:| :---------------:|
-|  CSS                   |   65%            |
-|  HTML                  |   80%            |
+| <img src="https://bit.ly/3IENMWX" width="16"> CSS    |   65% |
+| <img src="https://bit.ly/3uNsOQX" width="16"> HTML|   80% |
 |  GIT                   |   80%            |    
 | <img src="https://bit.ly/3IHLx50" width="16" >  Github | 80%|  
 |  Bootstrap             |   40%            |
@@ -50,3 +50,6 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 <br>
 
 ![Bye](https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif)
+
+
+all images are by commons.wikimedia.org and it's under : https://creativecommons.org/licenses/by/3.0/
