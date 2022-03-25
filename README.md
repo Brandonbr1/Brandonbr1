@@ -53,5 +53,3 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 
 <br>
 <br>
-all images are by commons.wikimedia.org and it's under : https://creativecommons.org/licenses/by/3.0/
-git logo from https://git-scm.com/downloads/logos
