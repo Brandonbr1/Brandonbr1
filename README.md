@@ -25,7 +25,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 - Country : __Trinadad and Tobago__
 
 
-## skill level
+## skills
 
 |  Programing Lanuage    | Skill level      |
 | :---------------------:| :---------------:|
@@ -33,8 +33,8 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 |  HTML                  |   80%            |
 |  GIT                   |   80%            |    
 |  Github                |   80%            |  
-| Bootstrap              |   40%            |
-| JavaScript             |   20%            |
+|  Bootstrap             |   40%            |
+|  JavaScript            |   20%            |
 
 ## My Top Languages
 
@@ -45,6 +45,8 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 
 [![JavaSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br>
+<br>
+<br>
 
 ![Bye](https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif)
