@@ -34,7 +34,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 | <img src="https://bit.ly/383CG15" width="16"> GIT                   |   80%            |    
 | <img src="https://bit.ly/3IHLx50" width="16" >  Github | 80%|  
 | <img src="https://bit.ly/3iTH3hz" width="16">  Bootstrap             |   40%            |
-| <img src="" width="16">  JavaScript            |   20%            |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Unofficial_JavaScript_logo.svg" width="16">  JavaScript            |   20%            |
 
 ## My Top Languages
 
