@@ -31,10 +31,10 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 | :---------------------:| :---------------:|
 | <img src="https://bit.ly/3IENMWX" width="16"> CSS    |   65% |
 | <img src="https://bit.ly/3uNsOQX" width="16"> HTML|   80% |
-|  GIT                   |   80%            |    
+| <img src="https://bit.ly/383CG15" width="16"> GIT                   |   80%            |    
 | <img src="https://bit.ly/3IHLx50" width="16" >  Github | 80%|  
-|  Bootstrap             |   40%            |
-|  JavaScript            |   20%            |
+| <img src="https://bit.ly/3iTH3hz" width="16">  Bootstrap             |   40%            |
+| <img src="" width="16">  JavaScript            |   20%            |
 
 ## My Top Languages
 
@@ -51,5 +51,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 
 ![Bye](https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif)
 
-
+<br>
+<br>
 all images are by commons.wikimedia.org and it's under : https://creativecommons.org/licenses/by/3.0/
+git logo from https://git-scm.com/downloads/logos
