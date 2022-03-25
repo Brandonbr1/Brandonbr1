@@ -1,6 +1,4 @@
-<h1 align="center">👋Hi there👋</h1>
-
-
+![Hi](https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)
 
 ## About Me
 ***My name is Brandon Josh Mohammed a male who lives somewhere in the country of Trinadad and Tobago***
@@ -46,3 +44,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 ## My Github Stats
 
 [![JavaSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[Bye](https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif)
