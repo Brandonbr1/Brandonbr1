@@ -30,16 +30,13 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 ## skill level
 
 |  Programing Lanuage    | Skill level      |
-| ---------------------- | ---------------- |
+| "---------------------:| :---------------:|
 |  CSS                   |   65%            |
 |  HTML                  |   80%            |
 |  GIT                   |   80%            |    
 |  Github                |   80%            |  
 | Bootstrap              |   40%            |
 | JavaScript             |   20%            |
-
-- __JavaScript 20%(Beginner)__
-
 
 ## My Top Languages
 
