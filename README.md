@@ -24,24 +24,23 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 
 <br>
 
-- Country :Trinadad and Tobago
+- Country : __Trinadad and Tobago__
 
 
 ## skill level
 
 
+- __CSS 65% (intermediate)__
 
-- CSS 65% (intermediate)
+- __HTML 80%(great)__
 
-- HTML 80%(great)
+- __Git 80%(great)__
 
-- Git 80%(great)
+- __Github 80%(great)__
 
-- Github 80%(great)
+- __bootstrap 40%(Beginner)__
 
-- bootstrap 40%(Beginner)
-
-- JavaScript 20%(Beginner)
+- __JavaScript 20%(Beginner)__
 
 
 ## My Top Languages
