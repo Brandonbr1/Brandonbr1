@@ -29,16 +29,14 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 
 ## skill level
 
-
-- __CSS 65% (intermediate)__
-
-- __HTML 80%(great)__
-
-- __Git 80%(great)__
-
-- __Github 80%(great)__
-
-- __bootstrap 40%(Beginner)__
+|  Programing Lanuage    | Skill level      |
+| ---------------------- | ---------------- |
+|  CSS                   |   65%            |
+|  HTML                  |   80%            |
+|  GIT                   |   80%            |    
+|  Github                |   80%            |  
+| Bootstrap              |   40%            |
+| JavaScript             |   20%            |
 
 - __JavaScript 20%(Beginner)__
 
@@ -50,4 +48,4 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 
 ## My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
+[![JavaSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
