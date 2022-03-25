@@ -1,4 +1,5 @@
-![Hi](https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)
+
+<img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="600">
 
 ## About Me
 ***My name is Brandon Josh Mohammed a male who lives somewhere in the country of Trinadad and Tobago***
@@ -49,7 +50,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 <br>
 <br>
 
-![Bye](https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif)
+<img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="800">
 
 <br>
 <br>
