@@ -38,14 +38,16 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 | <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.png" width="16">  JavaScript |   20%        |
 
 ## My Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1" width="450">
 
 ## My Github Stats
 
-[![JavaSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandonbr1)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Brandonbr1" width="800">
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
