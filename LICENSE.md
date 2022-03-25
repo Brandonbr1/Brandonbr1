@@ -8,7 +8,6 @@ Github logo: https://github.com/logos
 <br>
 Bootstrap logo: https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg
 <br>
-
 <br>
 git logo from https://git-scm.com/downloads/logos
 <br>
