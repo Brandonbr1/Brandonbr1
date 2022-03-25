@@ -47,4 +47,4 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 
 
 
-[Bye](https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif)
+![Bye](https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif)
