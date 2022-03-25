@@ -30,7 +30,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 ## skill level
 
 |  Programing Lanuage    | Skill level      |
-| "---------------------:| :---------------:|
+| :---------------------:| :---------------:|
 |  CSS                   |   65%            |
 |  HTML                  |   80%            |
 |  GIT                   |   80%            |    
