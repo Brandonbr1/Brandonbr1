@@ -5,10 +5,24 @@
 ## About Me
 My name is Brandon Josh Mohammed a male who lives somewhere in the country of Trinadad and Tobago
 
-- 📫 How to reach me: [click here to contact me](https://brandonbr1.github.io/)
-- 👦 Pronouns: He/Him
+- 📫 How to reach me: 
+you can contact me with my email adress on my website
+
+<br>
+
+- 👦 Peffered Pronouns: 
+I will prefer if you call me he/him but you can call me whatever you want because i dont really care
+<br>
+
 - 👨‍💻Skills: HTML, CSS, Git,Github,Bootstrap
-- 😁Things I like to do: Helping people in open source projects
+
+<br>
+
+- 😁Things I like to do:  
+I like to help anybody in open source project nomatter the kinds of project I will try to contribute and help you
+
+<br>
+
 - Country :Trinadad and Tobago
 
 
