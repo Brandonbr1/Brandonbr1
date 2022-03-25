@@ -1,7 +1,7 @@
 
 <img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="600">
 
-## About Me
+# _About Me_
 ***My name is Brandon Josh Mohammed a male who lives somewhere in the country of Trinadad and Tobago***
 
 - 📫 How to reach me: 
@@ -18,7 +18,7 @@ __I will prefer if you call me he/him but you can call me whatever you want beca
 
 <br>
 
-- 😁Things I like to do:  
+- 😁Things I like to do: 
 __I like to help anybody in open source project nomatter the kinds of project I will try to contribute and help you__
 
 <br>
@@ -26,7 +26,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 - Country : __Trinadad and Tobago__
 
 
-## skills
+# _skills_
 
 |  Programing Lanuage    | Skill level      |
 | :---------------------:| :---------------:|
@@ -37,10 +37,10 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 | <img src="https://bit.ly/3iTH3hz" width="16">  Bootstrap             |   40%            |
 | <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.png" width="16">  JavaScript |   20%        |
 
-## My Top Languages
+# _My Top Languages_
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1" width="450">
 
-## My Github Stats
+# _My Github Stats_
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brandonbr1" width="800">
 
