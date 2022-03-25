@@ -32,7 +32,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 |  CSS                   |   65%            |
 |  HTML                  |   80%            |
 |  GIT                   |   80%            |    
-| <img src="https://raw.githubusercontent.com/Brandonbr1/Brandonbr1/main/GitHub-Mark-32px.png" width="16" >  Github | 80%|  
+| <img src="https://bit.ly/3IHLx50" width="16" >  Github | 80%|  
 |  Bootstrap             |   40%            |
 |  JavaScript            |   20%            |
 
