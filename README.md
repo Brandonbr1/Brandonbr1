@@ -52,7 +52,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 <br>
 <br>
 
-<img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="800">
+<img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="750">
 
 <br>
 <br>
