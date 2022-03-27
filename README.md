@@ -56,7 +56,7 @@ this project is under [MIT](https://github.com/Brandonbr1/Brandonbr1/blob/main/L
 <br>
 <br>
 
-<img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="2000">
+<img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="9000">
 
 <br>
 <br>
