@@ -52,7 +52,7 @@
 
 see [credits for all of the logos in the "skills" section](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
 <br>
-this readme project  is under [Creative Commons Zero v1.0 Universal](https://github.com/Brandonbr1/Brandonbr1/blob/main/LICENSE)
+this readme project  is under [Zlib](https://github.com/Brandonbr1/Brandonbr1/blob/main/LICENSE)
 
 <br>
 <br>
