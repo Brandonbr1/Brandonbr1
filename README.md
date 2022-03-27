@@ -11,7 +11,7 @@
 
 # _skills_
 
-|  Programing Lanuage    | Skill level      |
+| __Programing Lanuage__ | __Skill level__  |
 | :---------------------:| :---------------:|
 | <img src="https://bit.ly/3IENMWX" width="16"> CSS    |   65%  |
 | <img src="https://bit.ly/3uNsOQX" width="16"> [HTML](http://brandonbr1.github.io/)|   80% |
@@ -26,11 +26,11 @@
 
 ## projects
 
-| Projects Name |  Projects Link                                   |
+| __Projects Name__ |  __Projects Link__                           |
 | :------------:|:------------------------------------------------:|
-| Website       |https://github.com/Brandonbr1/brandonbr1.github.io|
-| Discord bot   |https://github.com/Brandonbr1/DSBot               |
-| ad-list-hosts |https://github.com/Brandonbr1/ad-list-hosts       |
+| _Website_     |https://github.com/Brandonbr1/brandonbr1.github.io|
+| _Discord bot_ |https://github.com/Brandonbr1/DSBot               |
+| _ad-list-hosts_|https://github.com/Brandonbr1/ad-list-hosts       |
 
 <br>
 <br>
