@@ -49,6 +49,7 @@ __I like to help anybody in open source project nomatter the kinds of project I 
 <br>
 
 see [credits](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
+this project is under [MIT](https://github.com/Brandonbr1/Brandonbr1/blob/main/LICENSE) amd the javascript logo was made by Christopher Williams
 
 <br>
 <br>
