@@ -23,7 +23,7 @@
 <br>
 <br>
 
-
+## _Github stats_
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1" width="450">
 <br>
 <br>
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-## credits
+### credits
 
 see [credits for all of the logos in the "skills" section](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
 <br>
