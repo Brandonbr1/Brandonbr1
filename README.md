@@ -19,16 +19,24 @@
 | <img src="https://bit.ly/3IHLx50" width="16" >  [Github](https://github.com/Brandonbr1) | 80%|  
 | <img src="https://bit.ly/3iTH3hz" width="16">  Bootstrap             |   40%            |
 | <img src="https://raw.githubusercontent.com/whatwg/whatwg.org/main/resources.whatwg.org/logo-javascript.png" width="16">  JavaScript |   20%        |
-
+<br>
+<br>
+<br>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1" width="450">
+<br>
+<br>
+<br>
+<br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Brandonbr1" width="800">
 
 <br>
 <br>
 <br>
+
+## credits
 
 see [credits for all of the logos in the "skills" section](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
 <br>
