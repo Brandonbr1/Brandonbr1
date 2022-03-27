@@ -1,17 +1,3 @@
-all images are by commons.wikimedia.org and it's under : https://creativecommons.org/licenses/by/3.0/ 
-<br>
-Css logo: https://commons.wikimedia.org/wiki/File:CSS3_logo.svg
-<br>
-HTML logo: https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg
-<br>
-Github logo: https://github.com/logos
-<br>
-Bootstrap logo: https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg
-<br>
-<br>
-git logo from https://git-scm.com/downloads/logos
-<br>
-
 All other things are under like the text are under MIT
 
 Copyright (c) 2011 Christopher Williams <chris@iterativedesigns.com>
