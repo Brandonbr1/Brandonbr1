@@ -4,10 +4,7 @@
 # _About Me_
 ***My name is Brandon Josh Mohammed a male who lives somewhere in the country of Trinadad and Tobago***
 
-- 📫 How to reach me: 
-__ my [email](https://mailhide.io/en/e/ZlwLh5pW) __
-
-<br>
+- 📫 How to reach me: my main method of conatct is my email that can be found on my website [here](https://brandonbr1.github.io/)
 
 - 👦 Peffered Pronouns: 
 __I will prefer if you call me he/him but you can call me whatever you want because i don't really care__
@@ -15,9 +12,7 @@ __I will prefer if you call me he/him but you can call me whatever you want beca
 - 😁Things I like to do: 
 __I like to help anybody in open source project no matter the kinds of project I will try to contribute and help you__
 
-<br>
-
-- Country : __Trinadad and Tobago__
+- Country i live in : __Trinadad and Tobago__
 
 
 # _skills_
