@@ -32,6 +32,7 @@
 <br>
 
 see [credits for all of the logos in the "skills" section](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
+javascript logo by whatwg.org
 
 <br>
 <br>
