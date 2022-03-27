@@ -2,17 +2,11 @@
 <img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="1200">
 
 # _About Me_
-***My name is Brandon Josh Mohammed a male who lives somewhere in the country of Trinadad and Tobago***
 
-- 📫 How to reach me: my main method of conatct is my email that can be found on my website [here](https://brandonbr1.github.io/)
 
-- 👦 Peffered Pronouns: 
-__I will prefer if you call me he/him but you can call me whatever you want because i don't really care__
-
-- 😁Things I like to do: 
-__I like to help anybody in open source project no matter the kinds of project I will try to contribute and help you__
-
-- Country i live in : __Trinadad and Tobago__
+|  Real Name             | Pronouns         | Things I like to do           | Country            | Gender      | Contact Method                                      |
+| :---------------------:| :---------------:|:-----------------------------:|:------------------:|:-----------:|:---------------------------------------------------:|
+|  Brandon Josh Mohammed | He/him           |Helping people in FOSS Projects| Trinadad and Tobago|  Male       |Contact me on my [website](https://bit.ly/Brandonweb)|
 
 
 # _skills_
