@@ -22,6 +22,18 @@
 <br>
 <br>
 <br>
+<br>
+
+## projects
+
+| Projects Name |  Projects Link                                   |
+| :------------:|:------------------------------------------------:|
+| Website       |https://github.com/Brandonbr1/brandonbr1.github.io|
+| Discord bot   |https://github.com/Brandonbr1/DSBot               |
+| ad-list-hosts |https://github.com/Brandonbr1/ad-list-hosts       |
+
+<br>
+<br>
 
 ## _Github stats_
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1" width="450">
