@@ -5,3 +5,5 @@
 - Bootstrap logo: https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg
 
 - git logo from https://git-scm.com/downloads/logos
+
+- javascript logo by whatwg.org
