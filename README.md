@@ -31,8 +31,7 @@
 <br>
 <br>
 
-see [credits](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
-this project is under [MIT](https://github.com/Brandonbr1/Brandonbr1/blob/main/LICENSE) and the javascript logo was made by Christopher Williams
+see [credits for all of the logos in the "skills" section](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
 
 <br>
 <br>
