@@ -1,5 +1,5 @@
 
-<img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="600">
+<img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="1200">
 
 # _About Me_
 ***My name is Brandon Josh Mohammed a male who lives somewhere in the country of Trinadad and Tobago***
