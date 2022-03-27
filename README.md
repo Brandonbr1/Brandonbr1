@@ -18,7 +18,7 @@
 | <img src="https://bit.ly/383CG15" width="16"> GIT                   |   80%            |    
 | <img src="https://bit.ly/3IHLx50" width="16" >  Github | 80%|  
 | <img src="https://bit.ly/3iTH3hz" width="16">  Bootstrap             |   40%            |
-| <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.png" width="16">  JavaScript |   20%        |
+| <img src="https://raw.githubusercontent.com/whatwg/whatwg.org/main/resources.whatwg.org/logo-javascript.png" width="16">  JavaScript |   20%        |
 
 # _My Top Languages_
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonbr1" width="450">
