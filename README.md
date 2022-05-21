@@ -48,6 +48,12 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+<img src="https://i.imgur.com/pQsep3r.png" width="800">
+https://discord.gg/ekwHQs6uBZ
 
 ### credits
 
