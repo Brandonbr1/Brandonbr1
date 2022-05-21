@@ -52,7 +52,7 @@
 <br>
 <br>
 <a href="https://discord.gg/ekwHQs6uBZ">
-<img src="https://i.imgur.com/pQsep3r.png" width="800">
+<img src="https://i.imgur.com/pQsep3r.png" width="250">
   </a>
 
 ### credits
