@@ -43,7 +43,7 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Brandonbr1" width="800">
+<img src="https://github-readme-stats.vercel.app/api?username=Brandonbr1" width="350">
 
 <br>
 <br>
@@ -51,9 +51,9 @@
 <br>
 <br>
 <br>
-
+<a href="https://discord.gg/ekwHQs6uBZ">
 <img src="https://i.imgur.com/pQsep3r.png" width="800">
-https://discord.gg/ekwHQs6uBZ
+  </a>
 
 ### credits
 
