@@ -3,9 +3,7 @@
 - HTML logo: https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg
 - Github logo: https://github.com/logos
 - Bootstrap logo: https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg
-
 - git logo from https://git-scm.com/downloads/logos
-
 - javascript logo by whatwg.org
-
 - python logo from https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+- gifs are from tennor
