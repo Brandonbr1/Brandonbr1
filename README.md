@@ -14,7 +14,7 @@
 | __Programing Lanuage__ | __Skill level__  |
 | :---------------------:| :---------------:|
 | <img src="https://bit.ly/3IENMWX" width="16"> CSS    |   25%  |
-| <img src="https://bit.ly/3uNsOQX" width="16"> [HTML](http://brandonbr1.github.io/)|   80% |
+| <img src="https://bit.ly/3uNsOQX" width="16"> [HTML](http://brandonbr1.github.io/)|   58% |
 | <img src="https://bit.ly/383CG15" width="16"> GIT                   |   40%            |    
 | <img src="https://bit.ly/3IHLx50" width="16" >  [Github](https://github.com/Brandonbr1) | 80%|  
 | <img src="https://bit.ly/3iTH3hz" width="16">  Bootstrap             |   10%            |
