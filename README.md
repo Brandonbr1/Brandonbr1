@@ -1,12 +1,16 @@
 
-<img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="1200">
+<img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="900">
+
+
+
+Hello i am jerios
 
 # _About Me_
 
 
 |  Real Name             | Pronouns         | Things I like to do           | Country            | Gender| Contact Method                                      |
 | :---------------------:| :---------------:|:-----------------------------:|:------------------:|:----: |:---------------------------------------------------:|
-|  Brandon Josh Mohammed | He/him           |Helping people in FOSS Projects| Trinadad and Tobago|  Male |Contact me on my [website](https://bit.ly/Brandonweb) but peffered contact is gmail brandon66rb1@gmail.com that is my contact email do not email me on my personal email    |
+|  Brandon  Mohammed | He/him           |Helping people in FOSS Projects| Trinadad and Tobago|  Male |Contact me on my [website](https://bit.ly/Brandonweb) but peffered contact is gmail brandon66rb1@gmail.com that is my contact email do not email me on my personal email    |
 
 
 # _skills_
@@ -66,7 +70,7 @@ this readme project  is under [Zlib](https://github.com/Brandonbr1/Brandonbr1/bl
 <br>
 <br>
 
-<img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="9000">
+<img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="900">
 
 <br>
 <br>
