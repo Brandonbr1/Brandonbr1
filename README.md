@@ -36,6 +36,7 @@ Hello i am jerios
 | _Website_     |https://github.com/Brandonbr1/brandonbr1.github.io|
 | _Discord bot_ |https://github.com/Brandonbr1/DSBot               |
 | _ad-list-hosts_|https://github.com/Brandonbr1/ad-list-hosts       |
+| Lava Lucky BLOCK                                                               |
 
 <br>
 <br>
@@ -59,16 +60,7 @@ Hello i am jerios
 <img src="https://i.imgur.com/pQsep3r.png" width="400">
   </a>
 
-### credits
-
-see [credits for all of the logos in the "skills" section](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
-<br>
-this readme project  is under [Zlib](https://github.com/Brandonbr1/Brandonbr1/blob/main/LICENSE)
-
-<br>
-<br>
-<br>
-<br>
+###### see [credits for all of the logos in the "skills" section](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
 
 <img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="900">
 
