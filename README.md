@@ -12,18 +12,6 @@ Hello i am jerios
 | :---------------------:| :---------------:|:-----------------------------:|:------------------:|:----: |:---------------------------------------------------:|
 |  Brandon  Mohammed | He/him           |Helping people in FOSS Projects| Trinadad and Tobago|  Male |Contact me on my [website](https://bit.ly/Brandonweb) but peffered contact is gmail brandon66rb1@gmail.com that is my contact email do not email me on my personal email    |
 
-
-# _skills_
-
-| __Programing Lanuage__ | __Skill level__  |
-| :---------------------:| :---------------:|
-| <img src="https://bit.ly/3IENMWX" width="16"> CSS    |   25%  |
-| <img src="https://bit.ly/3uNsOQX" width="16"> [HTML](http://brandonbr1.github.io/)|   58% |
-| <img src="https://bit.ly/383CG15" width="16"> GIT                   |   40%            |    
-| <img src="https://bit.ly/3IHLx50" width="16" >  [Github](https://github.com/Brandonbr1) | 80%|  
-| <img src="https://bit.ly/3iTH3hz" width="16">  Bootstrap             |   10%            |
-| <img src="https://raw.githubusercontent.com/whatwg/whatwg.org/main/resources.whatwg.org/logo-javascript.png" width="16">  JavaScript |   5%        |
-| <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="64"> Python          | 10%               |
 <br>
 <br>
 <br>
