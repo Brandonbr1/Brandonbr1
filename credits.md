@@ -1,9 +1,0 @@
-- some of the image are by commons.wikimedia.org and it's under : https://creativecommons.org/licenses/by/3.0/
-- Css logo: https://commons.wikimedia.org/wiki/File:CSS3_logo.svg
-- HTML logo: https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg
-- Github logo: https://github.com/logos
-- Bootstrap logo: https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg
-- git logo from https://git-scm.com/downloads/logos
-- javascript logo by whatwg.org
-- python logo from https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
-- gifs are from tenor
