@@ -2,8 +2,7 @@
 <img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="900">
 
 
-
-<h1 style="color:blue;text-align:center;">This is a heading</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello+I+am+Jerios;I+am+a+Minecraft+Mod+developer)](https://git.io/typing-svg)
 
 # _About Me_
 
@@ -53,6 +52,7 @@ Vscode,Notepad,IntelliJ IDEA
 <br>
 <br>
 <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://discord.gg/ekwHQs6uBZ">
