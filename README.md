@@ -64,9 +64,7 @@ Vscode,Notepad,IntelliJ IDEA
 <a href="https://discord.gg/ekwHQs6uBZ">
 <img src="https://i.imgur.com/pQsep3r.png" width="400">
   </a>
-
-###### see [credits for all of the logos in the "skills" section](https://github.com/Brandonbr1/Brandonbr1/blob/main/credits.md)
-
+  
 <img src="https://c.tenor.com/snEGvecmVsAAAAAC/puffybear-puffy.gif" width="900">
 
 <br>
