@@ -50,10 +50,14 @@ Vscode,Notepad,IntelliJ IDEA
 <br>
 <br>
 <br>
-<br>
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Brandonbr1&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Brandonbr1)](https://git.io/streak-stats)
+
+
+## Youtuber Videos
+
 
 <a href="https://discord.gg/ekwHQs6uBZ">
 <img src="https://i.imgur.com/pQsep3r.png" width="400">
