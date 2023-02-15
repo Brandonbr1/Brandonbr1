@@ -9,7 +9,7 @@
 
 |  Real Name             | Pronouns         | Things I like to do           | Country            | Gender| Contact Method                                      |
 | :---------------------:| :---------------:|:-----------------------------:|:------------------:|:----: |:---------------------------------------------------:|
-|  Brandon  Mohammed | He/him           |Helping people in FOSS Projects| Trinadad and Tobago|  Male |Contact me on my [website](https://bit.ly/Brandonweb) but peffered contact is gmail brandon66rb1@gmail.com that is my contact email do not email me on my personal email    |
+|  Brandon  Mohammed | He/him           |Coding Minecraft Mods| Trinadad and Tobago|  Male |Contact me on my [website](https://bit.ly/Brandonweb)    |
 
 <br>
 <br>
